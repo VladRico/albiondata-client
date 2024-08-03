@@ -6,8 +6,10 @@ _vendor-[0-9]*
 *.gz
 *.zip
 *.pcap
+*.pcapng
 *.gob
 scripts/albiondata-client
 albiondata-client-output.txt
 albiondata-client
 config.yaml
+
